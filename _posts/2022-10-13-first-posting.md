@@ -1,7 +1,8 @@
 ---
 title: first posting
-date: 2022-10-13 10:11:00 +0900
-categories: [Blogging, Tutorial]
+date: 2022-10-13 +0800
+categories: [GitBlog]
+tag: [hello]
 ---
 
 

@@ -1,17 +1,13 @@
 ---
-title: Text and Typography
-author: cotes
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: Text and Typography - 번역
+date: 2022-10-14 +0800
+categories: [GitBlog]
+tags: [markdown]
 math: true
 mermaid: true
-image:
-  path: /commons/devices-mockup.png
-  width: 800
-  height: 500
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
+
+markdown에 대한 설명을 필요한 부분만 번역하기.
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
