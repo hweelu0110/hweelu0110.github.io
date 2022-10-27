@@ -31,6 +31,8 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hweelu0110.github.io'
 
+future: true
+
 github:
   username: hweelu0110             # change to your github username
 

@@ -1,6 +1,6 @@
 ---
 title: first posting
-date: 2022-10-13 +0800
+date: 2022-10-13 +09:00
 categories: [Git, GitBlog]
 tag: [hello]
 ---
